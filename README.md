@@ -1,5 +1,5 @@
-# FTC_Programs
-This is a repository for FTC Op Mode programs
+# FTC Team 18693 Programs
+This is a repository for the botsmiths FTC team 18693 Op Mode programs
 
 ## How To Veiw The Programs
   1. Navigate to the [Releases](https://github.com/4H-Botsmiths/FTC_Programs/releases) page
