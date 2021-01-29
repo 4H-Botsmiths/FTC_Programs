@@ -10,7 +10,7 @@ This is a repository for FTC Op Mode programs
   
   4. Click Assets
   
-  5. Click teamcode.zip
+  5. Click [teamcode.zip]()
   
   6. Use your programing interface to upload the file
   
