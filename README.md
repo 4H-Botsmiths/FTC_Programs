@@ -1,7 +1,7 @@
 # FTC_Programs
 This is a repository for FTC Op Mode programs
 
-## To Veiw The Programs
+## How To Veiw The Programs
   1. Navigate to the [Releases](https://github.com/4H-Botsmiths/FTC_Programs/releases) page
   
   2. Look for the tag labeled either Autonomous-vx.x.x or Teleop-vx.x.x
