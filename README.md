@@ -10,6 +10,6 @@ This is a repository for the [Botsmiths](https://user-images.githubusercontent.c
   
   3. Choose the latest release if you want the latest program
   
-  4. Click teamcode.zip
+  4. Click the option with a 3-D sqaure
   
   ### Thats It!
