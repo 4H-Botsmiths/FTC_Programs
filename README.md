@@ -10,9 +10,12 @@ This is a repository for the [Botsmiths](https://user-images.githubusercontent.c
   
   3. Choose the latest release if you want the latest program
   
-  4. Click the option with a 3-D sqaure
+  4. Click the Link with a 3-D sqaure
   
   ### Thats It!
 
-## Oflline blocks editor
-[offline_blocks_editor.zip](https://github.com/4H-Botsmiths/FTC_Programs/files/5974791/ConfigMain_offline_blocks_editor.zip)
+## How to use the [offline blocks editor](https://github.com/4H-Botsmiths/FTC_Programs/files/5974791/ConfigMain_offline_blocks_editor.zip)
+  1. Unzip the file
+  2. Open up the Index file
+  
+  
