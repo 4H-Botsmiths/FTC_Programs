@@ -14,7 +14,7 @@ This is a repository for the [Botsmiths](https://user-images.githubusercontent.c
   
   ### Thats It!
 
-## How to use the [offline blocks editor](https://github.com/4H-Botsmiths/FTC_Programs/files/5974791/ConfigMain_offline_blocks_editor.zip)
+## How to use the [Offline Blocks Editor](https://github.com/4H-Botsmiths/FTC_Programs/files/5974791/ConfigMain_offline_blocks_editor.zip)
   1. Unzip the file
   2. Open up the index.html file
   
