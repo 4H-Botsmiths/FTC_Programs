@@ -1,3 +1,5 @@
+![Botsmiths Logo](https://user-images.githubusercontent.com/75853497/109073277-00cf4180-76ab-11eb-8300-66d6e1399016.jpeg)
+
 # FTC Team 18693 Programs
 This is a repository for the [Botsmiths](https://user-images.githubusercontent.com/75853497/106341645-ded0d380-6252-11eb-8065-2b46f2479a9f.jpeg) FTC team 18693 Op Mode programs
 
